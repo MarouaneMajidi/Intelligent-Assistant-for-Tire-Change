@@ -26,15 +26,10 @@ The assistant detects tools, tracks task progress, and provides interactive, ste
 ---
 
 ## 📂 Project Structure
-```
-├── app/                   
-├── models/                 # Trained YOLO/Action Recognition/Voice Assistant models
-├── notebooks/              # Data processing and model training notebooks
-├── data/                   # Sample egocentric video frames, annotations, and action classes
-├── utils/                  # Utility scripts for preprocessing, inference
-├── requirements.txt        # Python dependencies
-├── README.md               # This file
-└── LICENSE.txt               
+```              
+├── action_recognition/                 # Trained YOLO/Action Recognition/Voice Assistant models
+├── object_detection/                  # Utility scripts for preprocessing, inference
+├── requirements.txt        # Python dependencies           # This file           
 ```
 
 ---
