@@ -7,19 +7,19 @@
 ---
 
 ## 📖 Overview
-This assistant leverages real-time computer vision and NLP to guide users through changing a flat tire using an egocentric (chest-mounted) camera. Inspired by the MECCANO project, this system focuses on practical, real-world assistance using a lightweight CV-NLP pipeline.
+This assistant leverages real-time computer vision and NLP to guide users through changing a flat tire using an egocentric (chest-mounted) camera. 
 
-The assistant detects tools, tracks task progress, and provides interactive, step-by-step visual and voice instructions for safely changing a vehicle tire.
+The assistant detects tools, tracks task progress, and provides interactive, step-by-step visual and voice instructions for changing a vehicle tire.
 
 ---
 
 ## 🔍 System Features
 - **Real-Time Tool Detection**:
-  - Identifies car jack, wheel wrench, and relevant tire components.
+  - Identifies car jack, wheel wrench, etc.
 - **Action Recognition**:
   - Tracks task progression like loosening nuts, jacking the car, replacing the wheel, etc.
 - **Voice Assistant**:
-  - Responds to user queries such as "What's next?" or "How do I do this step?"
+  - Responds to user queries such as "What's next?"
 - **Edge-Friendly Pipeline**:
   - Designed for deployment on mobile or embedded systems with minimal latency.
 
@@ -41,7 +41,7 @@ The assistant detects tools, tracks task progress, and provides interactive, ste
 
 ## 🧠 Models Used
 - **Object Detection**: YOLOv8 fine-tuned on tire-change-specific tools and components
-- **Action Recognition**: SlowFast network adapted for egocentric tire change action classification
+- **Action Recognition**: We are trying different models SlowFast , TSM , TimeDistributed EfficientNetB0
 - **Voice Assistant**: Whisper-based STT with a custom NLP pipeline for contextual understanding
 
 ---
