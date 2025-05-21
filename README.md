@@ -72,6 +72,7 @@ data/
 ```
 
 Each action class directory contains video clips used for model training and validation.
+
 https://github.com/user-attachments/assets/6d6bef7f-5d31-4b78-b57b-93b3566c5007
 
 
