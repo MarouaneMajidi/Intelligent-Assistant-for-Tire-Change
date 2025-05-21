@@ -53,15 +53,15 @@ We collected and curated a custom dataset specifically for the tire change domai
 The data directory contains the following action classes:
 ```
 data/
-├── lower_car/             # Videos/frames of lowering the car from the jack
-├── lift_car_with_jack/    # Videos/frames of raising the car with jack
-├── tighten_bolts/         # Videos/frames of final bolt tightening with wrench
-├── initial_wrench_tighten/# Videos/frames of initial wrench positioning
-├── place_spare_tire/      # Videos/frames of positioning the spare tire
-├── remove_tire/           # Videos/frames of removing the flat tire
-├── hand_tighten_bolts/    # Videos/frames of hand-tightening bolts
-├── loosen_bolts/          # Videos/frames of loosening wheel bolts
-├── remove_bolts/          # Videos/frames of removing wheel bolts
+├── lower_car/             # Videos lowering the car from the jack
+├── lift_car_with_jack/    # Videos raising the car with jack
+├── tighten_bolts/         # Videos final bolt tightening with wrench
+├── initial_wrench_tighten/# Videos initial wrench positioning
+├── place_spare_tire/      # Videos positioning the spare tire
+├── remove_tire/           # Videos removing the flat tire
+├── hand_tighten_bolts/    # Videos hand-tightening bolts
+├── loosen_bolts/          # Videos loosening wheel bolts
+├── remove_bolts/          # Videos removing wheel bolts
 ├── labels.csv             # Action timestamps and class annotations
 └── README.txt             # Dataset documentation
 ```
