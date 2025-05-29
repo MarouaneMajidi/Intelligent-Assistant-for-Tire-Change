@@ -2,18 +2,18 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**🚧 Project Status: Under Development 🚧**
+**Project Status: Under Development**
 
 ---
 
-## 📖 Overview
+## Overview
 This assistant leverages real-time computer vision and NLP to guide users through changing a flat tire using an egocentric (chest-mounted) camera. 
 
 The assistant detects tools, tracks task progress, and provides interactive, step-by-step visual and voice instructions for changing a vehicle tire.
 
 ---
 
-## 🔍 System Features
+## System Features
 - **Real-Time Tool Detection**:
   - Identifies car jack, wheel wrench, etc.
 - **Action Recognition**:
@@ -25,7 +25,7 @@ The assistant detects tools, tracks task progress, and provides interactive, ste
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```              
 ├── action_recognition/                 # Trained YOLO/Action Recognition/Voice Assistant models
 ├── object_detection/      
@@ -34,14 +34,14 @@ The assistant detects tools, tracks task progress, and provides interactive, ste
 
 ---
 
-## 🧠 Models Used
+## Models Used
 - **Object Detection**: YOLOv8 fine-tuned on tire-change-specific tools and components
 - **Action Recognition**: We are trying different models SlowFast , TSM , TimeDistributed EfficientNetB0
 - **Voice Assistant**: Whisper-based STT with a custom NLP pipeline for contextual understanding
 
 ---
 
-## 📊 Data
+## Data
 We collected and curated a custom dataset specifically for the tire change domain:
 
 ### Data Collection Methodology
@@ -71,11 +71,11 @@ Each action class directory contains video clips used for model training and val
 https://github.com/user-attachments/assets/6d6bef7f-5d31-4b78-b57b-93b3566c5007
 
 
-## 👨‍💻 Authors
+## Authors
 - **SOHAIB DAOUDI** – [soh.daoudi@gmail.com](mailto:soh.daoudi@gmail.com)
 - **MAROUANE MAJIDI** – [majidi.marouane0@gmail.com](mailto:majidi.marouane0@gmail.com)
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more details.
