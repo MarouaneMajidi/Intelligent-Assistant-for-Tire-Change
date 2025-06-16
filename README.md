@@ -2,18 +2,15 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**Project Status: Under Development**
 
----
-
-## 🧠 Overview
+## Overview
 This assistant leverages real-time computer vision and NLP to guide users through changing a flat tire using an egocentric (chest-mounted) camera.  
 
 It detects tools, tracks task progress, and provides interactive, step-by-step visual and voice instructions for changing a vehicle tire.
 
 ---
 
-## 🚀 System Features
+## System Features
 - **Real-Time Tool Detection**  
   Identifies car jack, wheel wrench, spare tire, and more using YOLOv8.
 
@@ -28,7 +25,7 @@ It detects tools, tracks task progress, and provides interactive, step-by-step v
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 ```              
 ├── action_recognition/        # Trained models for action recognition & voice assistant
 ├── object_detection/          # YOLOv8 models for tool detection
@@ -37,7 +34,7 @@ It detects tools, tracks task progress, and provides interactive, step-by-step v
 
 ---
 
-## 🤖 Models Used
+## Models Used
 - **Object Detection**  
   YOLOv8, fine-tuned on tire-change-specific tools and vehicle parts.
 
@@ -50,9 +47,9 @@ It detects tools, tracks task progress, and provides interactive, step-by-step v
 
 ---
 
-## 🎥 Dataset
+## Dataset
 
-### 📹 Data Collection Methodology
+### Data Collection Methodology
 - **Primary Source**  
   Self-collected footage of two tire changes on a *Renault Megane 2*, recorded using Samsung A50 smartphones from chest-mounted perspectives.
 
@@ -62,7 +59,7 @@ It detects tools, tracks task progress, and provides interactive, step-by-step v
 - **Annotation**  
   Manual labeling of action segments and bounding boxes for object detection.
 
-### 📁 Dataset Structure
+### Dataset Structure
 ```
 data/
 ├── lower_car/
@@ -79,11 +76,11 @@ data/
 ```
 Each action class folder contains video clips used for model training, validation, and testing.
 
-📎 [Dataset Screenshot or Visual](https://github.com/user-attachments/assets/6d6bef7f-5d31-4b78-b57b-93b3566c5007)
+![resized](https://github.com/user-attachments/assets/b3e77c3a-f267-4877-b48a-37b0ff49b208)
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### 1. Clone the Repository
 ```bash
@@ -109,15 +106,15 @@ python action_recognition/infer.py      # For recognizing user actions
 python object_detection/detect.py       # For detecting tools in real-time
 ```
 
-> ⚠️ Make sure to update paths to your video or webcam stream, and provide access to model weights.
+> Make sure to update paths to your video or webcam stream, and provide access to model weights.
 
 ---
 
-## 👥 Authors
+## Authors
 - **Sohaib Daoudi** – [soh.daoudi@gmail.com](mailto:soh.daoudi@gmail.com)  
 - **Marouane Majidi** – [majidi.marouane0@gmail.com](mailto:majidi.marouane0@gmail.com)
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more details.
