@@ -140,14 +140,7 @@ Use the following command to start the full real-time Changing Tire Assistant:
 python Algorithm_V4/AlgoV4.py
 ```
 ---
-
-## Authors
-- **Sohaib Daoudi** – [soh.daoudi@gmail.com](mailto:soh.daoudi@gmail.com)  
-- **Marouane Majidi** – [majidi.marouane0@gmail.com](mailto:majidi.marouane0@gmail.com)
-
----
-
-🚧 Work in Progress
+## Work in Progress
 This project is still under active development.
 
 Our main goal is to create a mobile app that assists users effectively.
@@ -158,6 +151,15 @@ We are currently focused on:
 - Experimenting with lightweight 3D hand-tracking models (e.g., Hands 3D)
 
 Stay tuned for updates, and feel free to contribute or share feedback!
+
+
+## Authors
+- **Sohaib Daoudi** – [soh.daoudi@gmail.com](mailto:soh.daoudi@gmail.com)  
+- **Marouane Majidi** – [majidi.marouane0@gmail.com](mailto:majidi.marouane0@gmail.com)
+
+---
+
+
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more details.
