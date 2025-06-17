@@ -147,5 +147,17 @@ python Algorithm_V4/AlgoV4.py
 
 ---
 
+🚧 Work in Progress
+This project is still under active development.
+
+Our main goal is to create a mobile app that assists users effectively.
+We are currently focused on:
+
+- Collecting and creating more diverse datasets
+
+- Experimenting with lightweight 3D hand-tracking models (e.g., Hands 3D)
+
+Stay tuned for updates, and feel free to contribute or share feedback!
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more details.
