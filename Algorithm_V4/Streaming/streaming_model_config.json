@@ -1,0 +1,17 @@
+{
+  "model_id": "a0",
+  "num_classes": 9,
+  "resolution": 240,
+  "class_names": [
+    "hand_tighten_bolts",
+    "initial_wrench_tighten",
+    "lift_car_with_jack",
+    "loosen_bolts",
+    "lower_car",
+    "place_spare_tire",
+    "remove_bolts",
+    "remove_tire",
+    "tighten_bolts"
+  ],
+  "streaming_batch_size": 1
+}

@@ -1,0 +1,11 @@
+Tire Change Assistant - Step Completion Log
+=============================================
+Step 1: Loosen Bolts - [PENDING]
+Step 2: Lift Car With Jack - [PENDING]
+Step 3: Remove Bolts - [PENDING]
+Step 4: Remove Tire - [PENDING]
+Step 5: Place Spare Tire - [PENDING]
+Step 6: Hand Tighten Bolts - [PENDING]
+Step 7: Initial Wrench Tighten - [PENDING]
+Step 8: Lower Car - [PENDING]
+Step 9: Tighten Bolts - [PENDING]

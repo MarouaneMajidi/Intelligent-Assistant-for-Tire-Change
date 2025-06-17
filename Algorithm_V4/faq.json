@@ -1,0 +1,1610 @@
+[
+  {
+    "id": 1,
+    "question": "What should I do first when changing a tire?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug1",
+    "question": "First step for changing a tire?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug2",
+    "question": "When changing a tire, what's the initial action?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug3",
+    "question": "What's the primary thing to do for a tire change?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug4",
+    "question": "Changing tire, what first?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": 2,
+    "question": "Where do I place the jack?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug1",
+    "question": "Jack placement location?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug2",
+    "question": "Where does the jack go?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug3",
+    "question": "Tell me where to put the jack.",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug4",
+    "question": "Positioning the jack?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": 3,
+    "question": "How do I loosen the lug nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug1",
+    "question": "Loosening lug nuts procedure?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug2",
+    "question": "How to make lug nuts loose?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug3",
+    "question": "What's the way to loosen lug nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug4",
+    "question": "Guide me on loosening lug nuts.",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": 4,
+    "question": "Should I raise the car before or after loosening the nuts?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug1",
+    "question": "Raise car or loosen nuts first?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug2",
+    "question": "What comes first, jacking or loosening nuts?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug3",
+    "question": "Do I loosen nuts then raise the car?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug4",
+    "question": "Order for raising car and loosening nuts?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": 5,
+    "question": "How high should I lift the car?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug1",
+    "question": "Car lifting height?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug2",
+    "question": "To what height lift the car?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug3",
+    "question": "Tell me the lifting height for the car.",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug4",
+    "question": "Lift car how much?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": 6,
+    "question": "Can I remove the lug nuts now?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug1",
+    "question": "Time to remove lug nuts?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug2",
+    "question": "Is it okay to take off lug nuts?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug3",
+    "question": "Should lug nuts be removed now?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug4",
+    "question": "Remove lug nuts stage?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": 7,
+    "question": "How do I align the new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug1",
+    "question": "New tire alignment steps?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug2",
+    "question": "How to correctly place the new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug3",
+    "question": "What's the process for aligning a new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug4",
+    "question": "Aligning new tire how?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": 8,
+    "question": "Should I tighten the nuts while the car is still lifted?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug1",
+    "question": "Tighten nuts when car is lifted?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug2",
+    "question": "When to tighten nuts? While car is up?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug3",
+    "question": "Do I tighten nuts completely with the car raised?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug4",
+    "question": "Nut tightening timing: car lifted or not?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": 9,
+    "question": "How do I tighten the lug nuts correctly?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug1",
+    "question": "Correct way to tighten lug nuts?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug2",
+    "question": "Proper lug nut tightening method?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug3",
+    "question": "Tell me how to properly tighten lug nuts.",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug4",
+    "question": "Lug nuts: tighten correctly how?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": 10,
+    "question": "What do I do with the flat tire?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug1",
+    "question": "Flat tire disposal?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug2",
+    "question": "Where does the flat tire go?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug3",
+    "question": "Handling the flat tire after change?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug4",
+    "question": "Aftermath: flat tire?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": 11,
+    "question": "What if I don't have a jack?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug1",
+    "question": "No jack, what to do?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug2",
+    "question": "Missing a jack, any options?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug3",
+    "question": "What are the alternatives if I have no jack?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug4",
+    "question": "Don't have jack, help!",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": 12,
+    "question": "What if a lug nut won’t come off?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug1",
+    "question": "Lug nut stuck, what now?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug2",
+    "question": "A lug nut is impossible to remove, solutions?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug3",
+    "question": "How to deal with a stubborn lug nut?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug4",
+    "question": "Help, lug nut won't budge!",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": 13,
+    "question": "How do I know the tire is secure?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug1",
+    "question": "Checking tire security?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug2",
+    "question": "Is my tire secure enough?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug3",
+    "question": "How to confirm tire is safely attached?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug4",
+    "question": "Make sure tire is secure, how?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": 14,
+    "question": "Where can I find the spare tire?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug1",
+    "question": "Spare tire location?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug2",
+    "question": "Where's the spare tire kept?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug3",
+    "question": "Tell me where to look for the spare tire.",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug4",
+    "question": "Locating spare tire?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": 15,
+    "question": "What tools do I need to change a tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug1",
+    "question": "Tools for tire change?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug2",
+    "question": "What equipment is needed for changing a tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug3",
+    "question": "List the tools required for a tire replacement.",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug4",
+    "question": "Need what tools change tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": 16,
+    "question": "How to place the jack?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug1",
+    "question": "Jack placement guide?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug2",
+    "question": "Where should the jack be placed?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug3",
+    "question": "Tell me how to position the jack.",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug4",
+    "question": "Correct jack positioning?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": 17,
+    "question": "How to lift the car?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug1",
+    "question": "Car lifting instructions?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug2",
+    "question": "What's the method for lifting the car?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug3",
+    "question": "Explain how to raise the car with a jack.",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug4",
+    "question": "Lift car, how?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": 18,
+    "question": "How to loosen the nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug1",
+    "question": "Nut loosening technique?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug2",
+    "question": "What's the way to make nuts loose?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug3",
+    "question": "Guide for loosening nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug4",
+    "question": "Loosen nuts, tell me how.",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": 19,
+    "question": "How to remove the flat tire?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug1",
+    "question": "Flat tire removal steps?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug2",
+    "question": "What's involved in removing the flat tire?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug3",
+    "question": "Process for taking off a flat tire?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug4",
+    "question": "Removing flat tire, how exactly?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": 20,
+    "question": "How to install the spare tire?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug1",
+    "question": "Spare tire installation guide?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug2",
+    "question": "What's the procedure for installing the spare tire?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug3",
+    "question": "Putting on the spare tire, steps?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug4",
+    "question": "Install spare, how?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": 21,
+    "question": "How to tighten the nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug1",
+    "question": "Nut tightening method?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug2",
+    "question": "What's the correct way to tighten nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug3",
+    "question": "Steps for tightening lug nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug4",
+    "question": "Tighten nuts properly, please explain.",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": 22,
+    "question": "How to lower the car?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug1",
+    "question": "Car lowering procedure?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug2",
+    "question": "What's the way to bring the car down?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug3",
+    "question": "Instructions for lowering the car?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug4",
+    "question": "Lower car, how?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": 23,
+    "question": "How to fully tighten the nuts?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug1",
+    "question": "Final nut tightening steps?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug2",
+    "question": "What's the process for fully tightening lug nuts?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug3",
+    "question": "Making sure nuts are fully tightened?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug4",
+    "question": "Fully tighten nuts, how to do it?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": 24,
+    "question": "How to check if the tire is secure?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug1",
+    "question": "Tire security check method?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug2",
+    "question": "How can I confirm the tire is secure?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug3",
+    "question": "Verifying tire is secure, steps?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug4",
+    "question": "Check tire secure, how?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": 25,
+    "question": "How to store the tools?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug1",
+    "question": "Tool storage guide after tire change?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug2",
+    "question": "Where do the tools go after use?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug3",
+    "question": "What to do with tools post tire change?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug4",
+    "question": "Store tools, how?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "1_aug_new_1",
+    "question": "Uhm, what should i do first when changing a tire?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug_new_2",
+    "question": "What do first changing tire?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug_new_3",
+    "question": "First action for tire change?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "2_aug_new_1",
+    "question": "So, where do i place the jack?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug_new_2",
+    "question": "Where place jack?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug_new_3",
+    "question": "Jack goes where?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "3_aug_new_1",
+    "question": "Well, how do i loosen the lug nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug_new_2",
+    "question": "How loosen lug nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug_new_3",
+    "question": "Loosen lug nuts how?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "4_aug_new_1",
+    "question": "Uhm, should i raise the car before or after loosening the nuts?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug_new_2",
+    "question": "Raise car before or after loosening nuts?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug_new_3",
+    "question": "Loosen nuts first or raise car?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "5_aug_new_1",
+    "question": "So, how high should i lift the car?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug_new_2",
+    "question": "How high lift car?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug_new_3",
+    "question": "Lift car height?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "6_aug_new_1",
+    "question": "Like, can i remove the lug nuts now?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug_new_2",
+    "question": "Can remove lug nuts now?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug_new_3",
+    "question": "Remove lug nuts now ok?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "7_aug_new_1",
+    "question": "Uhm, how do i align the new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug_new_2",
+    "question": "How align new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug_new_3",
+    "question": "Align new tire how?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "8_aug_new_1",
+    "question": "So, should i tighten the nuts while the car is still lifted?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug_new_2",
+    "question": "Tighten nuts while car lifted?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug_new_3",
+    "question": "Tighten nuts car up?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "9_aug_new_1",
+    "question": "Well, how do i tighten the lug nuts correctly?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug_new_2",
+    "question": "How tighten lug nuts correctly?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug_new_3",
+    "question": "Tighten lug nuts correctly how?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "10_aug_new_1",
+    "question": "Uhm, what do i do with the flat tire?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug_new_2",
+    "question": "What do with flat tire?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug_new_3",
+    "question": "Flat tire what to do?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "11_aug_new_1",
+    "question": "So, what if i don't have a jack?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug_new_2",
+    "question": "What if no jack?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug_new_3",
+    "question": "Don't have jack what do?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "12_aug_new_1",
+    "question": "Like, what if a lug nut won’t come off?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug_new_2",
+    "question": "What if lug nut not come off?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug_new_3",
+    "question": "Lug nut won't come off what do?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "13_aug_new_1",
+    "question": "Uhm, how do i know the tire is secure?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug_new_2",
+    "question": "How know tire secure?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug_new_3",
+    "question": "Tire secure how know?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "14_aug_new_1",
+    "question": "So, where can i find the spare tire?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug_new_2",
+    "question": "Where find spare tire?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug_new_3",
+    "question": "Find spare tire where?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "15_aug_new_1",
+    "question": "Well, what tools do i need to change a tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug_new_2",
+    "question": "What tools need change tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug_new_3",
+    "question": "Tools to change tire?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "16_aug_new_1",
+    "question": "Uhm, how to place the jack?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug_new_2",
+    "question": "How place jack?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug_new_3",
+    "question": "Place jack how?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "17_aug_new_1",
+    "question": "So, how to lift the car?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug_new_2",
+    "question": "How lift car?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug_new_3",
+    "question": "Lift car how?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "18_aug_new_1",
+    "question": "Like, how to loosen the nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug_new_2",
+    "question": "How loosen nuts?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug_new_3",
+    "question": "Loosen nuts how?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "19_aug_new_1",
+    "question": "Uhm, how to remove the flat tire?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug_new_2",
+    "question": "How remove flat tire?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug_new_3",
+    "question": "Remove flat tire how?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "20_aug_new_1",
+    "question": "So, how to install the spare tire?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug_new_2",
+    "question": "How install spare tire?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug_new_3",
+    "question": "Install spare tire how?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "21_aug_new_1",
+    "question": "Well, how to tighten the nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug_new_2",
+    "question": "How tighten nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug_new_3",
+    "question": "Tighten nuts how?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "22_aug_new_1",
+    "question": "Uhm, how to lower the car?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug_new_2",
+    "question": "How lower car?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug_new_3",
+    "question": "Lower car how?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "23_aug_new_1",
+    "question": "So, how to fully tighten the nuts?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug_new_2",
+    "question": "How fully tighten nuts?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug_new_3",
+    "question": "Fully tighten nuts how?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "24_aug_new_1",
+    "question": "Like, how to check if the tire is secure?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug_new_2",
+    "question": "How check tire secure?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug_new_3",
+    "question": "Check tire secure how?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "25_aug_new_1",
+    "question": "Uhm, how to store the tools?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug_new_2",
+    "question": "How store tools?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug_new_3",
+    "question": "Store tools how?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "1_aug_gen3_1",
+    "question": "Can you explain what to do first for a tire change?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "1_aug_gen3_2",
+    "question": "Tire change prep?",
+    "intent": "Preparation",
+    "answer": "First, make sure your car is parked on a flat surface, turn on hazard lights, and apply the parking brake."
+  },
+  {
+    "id": "2_aug_gen3_1",
+    "question": "I'd like to know where the jack goes.",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "2_aug_gen3_2",
+    "question": "Jack location pinpoint?",
+    "intent": "Jack Placement",
+    "answer": "Look for the jack point near the flat tire under the car frame; it's usually behind the front wheel or in front of the rear wheel."
+  },
+  {
+    "id": "3_aug_gen3_1",
+    "question": "What about loosening the lug nuts, how's that done?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "3_aug_gen3_2",
+    "question": "Nuts loosen how?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wheel wrench to turn the lug nuts counterclockwise. Loosen them slightly while the tire is still on the ground."
+  },
+  {
+    "id": "4_aug_gen3_1",
+    "question": "Can you clarify the order: raise car then loosen nuts, or vice versa?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "4_aug_gen3_2",
+    "question": "Jack or nuts first?",
+    "intent": "Order of Operations",
+    "answer": "Loosen the nuts before jacking up the car. Once loose, then use the jack to lift the car."
+  },
+  {
+    "id": "5_aug_gen3_1",
+    "question": "I'd like to know how high to lift my car for this.",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "5_aug_gen3_2",
+    "question": "Car lift height query?",
+    "intent": "Lifting",
+    "answer": "Raise it until the flat tire is about 2 inches off the ground. Make sure the car is stable."
+  },
+  {
+    "id": "6_aug_gen3_1",
+    "question": "What about removing lug nuts now, is it time?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "6_aug_gen3_2",
+    "question": "Lug nuts off now?",
+    "intent": "Removing Lug Nuts",
+    "answer": "Yes. Once the car is lifted, fully remove the loosened lug nuts and take off the flat tire."
+  },
+  {
+    "id": "7_aug_gen3_1",
+    "question": "Can you explain aligning the new tire?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "7_aug_gen3_2",
+    "question": "New tire fit guide?",
+    "intent": "Mounting",
+    "answer": "Line up the holes in the wheel with the lug bolts, then slide the new tire onto the hub."
+  },
+  {
+    "id": "8_aug_gen3_1",
+    "question": "I'd like to know if I should tighten nuts while car is lifted.",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "8_aug_gen3_2",
+    "question": "Nuts tight car up?",
+    "intent": "Partial Tightening",
+    "answer": "Hand-tighten the nuts while the car is raised, then lower the car slightly before fully tightening."
+  },
+  {
+    "id": "9_aug_gen3_1",
+    "question": "What about tightening lug nuts correctly, any specific way?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "9_aug_gen3_2",
+    "question": "Lug nuts final torque?",
+    "intent": "Final Tightening",
+    "answer": "Use the wrench to tighten the nuts in a star or criss-cross pattern to ensure even pressure."
+  },
+  {
+    "id": "10_aug_gen3_1",
+    "question": "Can you explain what happens with the flat tire afterwards?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "10_aug_gen3_2",
+    "question": "Flat tire storage?",
+    "intent": "Cleanup",
+    "answer": "Store the flat tire in the trunk and clean up your tools. You're done!"
+  },
+  {
+    "id": "11_aug_gen3_1",
+    "question": "I'd like to know what to do if I have no jack.",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "11_aug_gen3_2",
+    "question": "No jack, solutions?",
+    "intent": "Missing Tool",
+    "answer": "You’ll need a jack to lift the car. Without one, call roadside assistance or use a scissor jack from your car kit."
+  },
+  {
+    "id": "12_aug_gen3_1",
+    "question": "What about a lug nut that won't budge?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "12_aug_gen3_2",
+    "question": "Jammed lug nut?",
+    "intent": "Stuck Lug Nut",
+    "answer": "Try applying more force or use a longer wrench. If it still won’t budge, use penetrating oil or seek help."
+  },
+  {
+    "id": "13_aug_gen3_1",
+    "question": "Can you explain how to confirm the tire's secure?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "13_aug_gen3_2",
+    "question": "Tire security verification?",
+    "intent": "Safety Check",
+    "answer": "After tightening, gently shake the tire and listen for movement. Drive a short distance and re-check the nuts."
+  },
+  {
+    "id": "14_aug_gen3_1",
+    "question": "I'd like to know where spare tires are usually kept.",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "14_aug_gen3_2",
+    "question": "Spare location?",
+    "intent": "Spare Tire Location",
+    "answer": "It’s usually in the trunk, under the floor mat, or mounted under the rear of the car."
+  },
+  {
+    "id": "15_aug_gen3_1",
+    "question": "What about the tools I'll need for a tire change?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "15_aug_gen3_2",
+    "question": "Required tire tools?",
+    "intent": "Tool List",
+    "answer": "You'll need a jack, a lug wrench, a spare tire, and optionally gloves and a flashlight."
+  },
+  {
+    "id": "16_aug_gen3_1",
+    "question": "Can you explain how to place the jack correctly?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "16_aug_gen3_2",
+    "question": "Jack place how?",
+    "intent": "Jack Placement",
+    "answer": "Place the jack under the car's jack point, near the flat tire."
+  },
+  {
+    "id": "17_aug_gen3_1",
+    "question": "I'd like to know the method for lifting the car.",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "17_aug_gen3_2",
+    "question": "Car up how?",
+    "intent": "Lifting",
+    "answer": "Rotate the jack handle clockwise until the flat tire is off the ground."
+  },
+  {
+    "id": "18_aug_gen3_1",
+    "question": "What about loosening nuts, the technique?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "18_aug_gen3_2",
+    "question": "Nuts loose technique?",
+    "intent": "Loosening Lug Nuts",
+    "answer": "Use the wrench to turn the lug nuts counterclockwise."
+  },
+  {
+    "id": "19_aug_gen3_1",
+    "question": "Can you explain how to get the flat tire off?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "19_aug_gen3_2",
+    "question": "Flat off how?",
+    "intent": "Removing Lug Nuts",
+    "answer": "After removing the nuts, pull the tire toward you."
+  },
+  {
+    "id": "20_aug_gen3_1",
+    "question": "I'd like to know how to put the spare tire on.",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "20_aug_gen3_2",
+    "question": "Spare on steps?",
+    "intent": "Mounting",
+    "answer": "Align the spare tire with the bolts and slide it onto the hub."
+  },
+  {
+    "id": "21_aug_gen3_1",
+    "question": "What about the way to tighten nuts?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "21_aug_gen3_2",
+    "question": "Nuts tighten method?",
+    "intent": "Final Tightening",
+    "answer": "Turn the nuts clockwise in a star pattern to ensure even pressure."
+  },
+  {
+    "id": "22_aug_gen3_1",
+    "question": "Can you explain lowering the car?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the ground."
+  },
+  {
+    "id": "22_aug_gen3_2",
+    "question": "Car down how?",
+    "intent": "Final Tightening",
+    "answer": "Slowly turn the jack handle counterclockwise until the car rests on the. ground."
+  },
+  {
+    "id": "23_aug_gen3_1",
+    "question": "I'd like to know how to fully tighten them nuts.",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "23_aug_gen3_2",
+    "question": "Nuts full tight?",
+    "intent": "Final Tightening",
+    "answer": "Once the car is down, tighten each nut securely in a criss-cross pattern."
+  },
+  {
+    "id": "24_aug_gen3_1",
+    "question": "What about checking tire security?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "24_aug_gen3_2",
+    "question": "Tire safe check?",
+    "intent": "Safety Check",
+    "answer": "Gently try to rock the tire. If it moves, tighten the nuts more."
+  },
+  {
+    "id": "25_aug_gen3_1",
+    "question": "Can you explain storing tools post-change?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+  {
+    "id": "25_aug_gen3_2",
+    "question": "Tools store how?",
+    "intent": "Cleanup",
+    "answer": "Put the jack, wrench, and flat tire back in the trunk."
+  },
+    {
+    "id": "unknown_32",
+    "question": "What is the air-speed velocity of an unladen swallow?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_32_aug1",
+    "question": "tell me about politics",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_32_aug2",
+    "question": "lkjhgfdsa",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_33",
+    "question": "How do I check my car's oil level?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_33_aug1",
+    "question": "What does the check engine light mean?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_33_aug2",
+    "question": "My car is making a funny noise",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_34",
+    "question": "Can you recommend a good restaurant nearby?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_34_aug1",
+    "question": "What's the score of the game?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_34_aug2",
+    "question": "gibberish nonsense words here",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_35",
+    "question": "1234567890",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_35_aug1",
+    "question": "qwertyuiop",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_35_aug2",
+    "question": "Does my spare tire need a name?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_36",
+    "question": "How do I rotate my tires?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_36_aug1",
+    "question": "What's the best tire pressure?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_36_aug2",
+    "question": "blah blah blah blah",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_37",
+    "question": "Can you sing a song?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_37_aug1",
+    "question": "What is your purpose?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  },
+  {
+    "id": "unknown_37_aug2",
+    "question": "Is a hot dog a sandwich?",
+    "intent": "Unknown",
+    "answer": "I can't answer that"
+  }
+]

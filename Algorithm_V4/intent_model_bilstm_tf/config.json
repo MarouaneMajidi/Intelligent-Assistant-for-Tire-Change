@@ -1,0 +1,14 @@
+{
+    "faq_file": "faq.json",
+    "model_save_dir": "intent_model_bilstm_tf",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "num_lstm_layers": 1,
+    "dropout_rate": 0.5,
+    "learning_rate": 0.001,
+    "batch_size": 16,
+    "num_epochs": 25,
+    "max_vocab_size": 10000,
+    "test_split_size": 0.2,
+    "random_state": 42
+}
